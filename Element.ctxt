@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Element
+comment1.params=data\ next
+comment1.target=Element(java.lang.Object,\ Element)
+comment10.params=index\ newData
+comment10.target=void\ set(int,\ java.lang.Object)
+comment11.params=index\ newData
+comment11.target=void\ add(int,\ java.lang.Object)
+comment12.params=index
+comment12.target=java.lang.Object\ remove(int)
+comment2.params=data
+comment2.target=Element(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ getData()
+comment4.params=
+comment4.target=Element\ getNext()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=int\ size()
+comment7.params=x\ y
+comment7.target=boolean\ areEqual(java.lang.Object,\ java.lang.Object)
+comment8.params=value
+comment8.target=boolean\ contains(java.lang.Object)
+comment9.params=index
+comment9.target=java.lang.Object\ get(int)
+numComments=13
